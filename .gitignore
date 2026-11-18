@@ -5,7 +5,6 @@ DerivedData/
 DerivedData-*/
 .build/
 *.p8
-.env*
 .worktrees/
 helper/bin/
 helper/togo
@@ -19,3 +18,5 @@ relay/node_modules/
 packages/TogoTerminal/.dd/
 dist/
 .replay-scratch/
+config.bat
+node_modules
